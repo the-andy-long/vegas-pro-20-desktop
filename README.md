@@ -1,3 +1,3 @@
 # Vegas Pro 20
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
